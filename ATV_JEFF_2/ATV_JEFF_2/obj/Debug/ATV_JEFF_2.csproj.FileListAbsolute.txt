@@ -1,0 +1,8 @@
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\bin\Debug\ATV_JEFF_2.exe.config
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\bin\Debug\ATV_JEFF_2.exe
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\bin\Debug\ATV_JEFF_2.pdb
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\obj\Debug\ATV_JEFF_2.csproj.AssemblyReference.cache
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\obj\Debug\ATV_JEFF_2.csproj.CoreCompileInputs.cache
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\obj\Debug\ATV_JEFF_2.exe
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\obj\Debug\ATV_JEFF_2.pdb
+C:\Users\lab2087\source\repos\ATV_JEFF_2\ATV_JEFF_2\obj\Debug\ATV_JEFF_2.exe.config
