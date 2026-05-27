@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,33 +28,35 @@ namespace ATV_JEFF_2
 
                 Btn = Console.ReadLine();
 
-                if (Btn == "1")
+                switch (Btn)
                 {
-                    fila.Cadastro();
-                }
-                else if (Btn == "2")
-                {
-                    fila.Listar();
-                }
-                else if (Btn == "3")
-                {
-                    fila.Atender();
-                }
-                else if (Btn == "4")
-                {
-                    fila.Alterar();
-                }
-                else if (Btn == "q")
-                {
+                    case
+                        "1":
+                       fila.Cadastro();
+                        break;
+                    case
+                        "2":
+                            fila.Listar();
+                        break;
+                    case
+                        "3":
+                            fila.Atender();
+                        break;
+                    case
+                        "4":
+                              fila.Alterar();
+                        break;
+                    case
+                        "q":
                     Loop = false;
-                    Console.WriteLine("");
-                    Console.WriteLine("...Encerrando Progama...");
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("//--Comando Invalido--//");
-                    Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine("");
+                        Console.WriteLine("...Encerrando Progama...");
+                        break;
+                    default:
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("//--Comando Invalido--//");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
                 }
             }
         }
